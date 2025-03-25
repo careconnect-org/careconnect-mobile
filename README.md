@@ -19,7 +19,7 @@ Prerequisites
 **Installation Steps**
 
 Clone the repository:
-   git clone https://github.com/yourusername/careconnect.git
+   git clone https://github.com/Bonheur2/careconnect.git
 
 Change into the project directory:
    cd careconnect
