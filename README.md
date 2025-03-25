@@ -19,8 +19,8 @@ Prerequisites
 **Installation Steps**
 
 Clone the repository:
-   git clone https://github.com/Bonheur2/careconnect.git
-
+   git clone https://github.com/careconnect-org/careconnect-mobile.git
+   
 Change into the project directory:
    cd careconnect
 
